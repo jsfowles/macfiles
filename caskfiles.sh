@@ -39,7 +39,6 @@ brew cask install chrome-remote-desktop-host
 brew cask install spotify
 brew cask install hyper
 brew cask install private-internet-access
-brew cask install postman
 brew cask install sequel-pro
 brew cask install transmission
 brew cask install plex-media-server
